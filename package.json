@@ -1,0 +1,20 @@
+{
+  "name": "de-mulher-para-mulher",
+  "version": "1.0.0",
+  "description": "de mulher-para-mulher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kerollaineribeiro/de-mulher-para-mulher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kerollaineribeiro/de-mulher-para-mulher/issues"
+  },
+  "homepage": "https://github.com/Kerollaineribeiro/de-mulher-para-mulher#readme"
+}
